@@ -1,0 +1,72 @@
+	body{
+		width: 1366px;
+		background-color: rgb(250, 217, 225);
+		margin: 0px;	 
+       			}	
+
+
+	.toquiz{
+		color: rgb(66, 135, 245);
+			}
+
+
+	.upperborder{
+		display: flex;
+		background-color: rgb(77, 4, 5);
+		width: 1366px;
+		margin: 0px;
+		padding: 0px;
+			}
+
+	.upperborder div{
+		margin-bottom: 10px;
+		margin-top: 10px;
+		margin-left: 30px;
+		padding: 7px;
+		lenght: 300px;
+			}
+
+
+	#quiz{
+		background-color: rgb(255, 255, 255);
+		border-radius: 10px;
+			}
+
+
+	#commuvistentm{
+		background-color: rgb(219, 171, 39);
+		font-color: rgb(0, 0, 0);
+		border-radius: 10px;
+			}
+
+
+	#merch{
+		background-color: rgb(255, 255, 255);
+		border-radius: 10px;
+			}
+
+
+
+	a {
+		text-decoration: none;
+  		font-family: "Noto Serif JP", serif;
+  		font-optical-sizing: auto;
+ 		font-weight: 900;
+ 		font-style: normal;
+			}	
+
+	a:link {
+		color: black;
+			}
+
+	a:visited{
+		color: rgb(245, 103, 98);
+			}
+
+	a:hover{
+		color: hotpink;
+			}
+
+	a:active{
+		color: blue;
+			}
