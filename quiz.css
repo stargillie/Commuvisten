@@ -55,6 +55,7 @@
  		font-style: normal;
 			}	
 
+
 	a:link {
 		color: rgb(47, 77, 73);
 			}
@@ -70,3 +71,273 @@
 	a:active{
 		color: rgb(240, 63, 172);
 			}
+
+	.quest12{
+		display: flex;
+		flex-direction: row;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+			}
+
+	.quest1{
+		margin-top: 45px;
+			}	
+
+	#main1{
+		font-size: 50px;
+		color: rgb(114, 43, 90);
+			}	
+		
+	#opties1{
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+			}
+	
+
+	#opt1{
+		font-size: 20px;
+			}
+	#opt2{
+		font-size: 20px;
+			}	
+	#opt3{
+		font-size: 20px;
+			}	
+	#opt4{
+		font-size: 20px;
+			}
+
+	.quest2{
+		margin-top: 45px;
+			}	
+
+	#main2{
+		font-size: 50px;
+		color: rgb(114, 43, 90);
+			}	
+		
+	#opties2{
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+			}
+	
+
+	#opt5{
+		font-size: 20px;
+			}
+	#opt6{
+		font-size: 20px;
+			}	
+	#opt7{
+		font-size: 20px;
+			}	
+	#opt8{
+		font-size: 20px;
+			}
+
+	.quest34{
+		display: flex;
+		flex-direction: row;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+			}
+
+	.quest3{
+		margin-top: 45px;
+			}	
+
+	#main3{
+		font-size: 50px;
+		color: rgb(114, 43, 90);
+			}	
+		
+	#opties3{
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+			}
+	
+
+	#opt9{
+		font-size: 20px;
+			}
+	#opt10{
+		font-size: 20px;
+			}	
+	#opt11{
+		font-size: 20px;
+			}	
+	#opt12{
+		font-size: 20px;
+			}
+
+	.quest4{
+		margin-top: 45px;
+			}	
+
+	#main4{
+		font-size: 50px;
+		color: rgb(114, 43, 90);
+			}	
+		
+	#opties4{
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+			}
+	
+
+	#opt13{
+		font-size: 20px;
+			}
+	#opt14{
+		font-size: 20px;
+			}	
+	#opt15{
+		font-size: 20px;
+			}	
+	#opt16{
+		font-size: 20px;
+			}
+
+	.quest56{
+		display: flex;
+		flex-direction: row;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+			}
+
+	.quest5{
+		margin-top: 45px;
+			}	
+
+	#main5{
+		font-size: 50px;
+		color: rgb(114, 43, 90);
+			}	
+		
+	#opties5{
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+			}
+	
+
+	#opt17{
+		font-size: 20px;
+			}
+	#opt18{
+		font-size: 20px;
+			}	
+	#opt19{
+		font-size: 20px;
+			}	
+	#opt20{
+		font-size: 20px;
+			}
+
+	.quest6{
+		margin-top: 45px;
+			}	
+
+	#main6{
+		font-size: 50px;
+		color: rgb(114, 43, 90);
+			}	
+		
+	#opties6{
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+			}
+	
+
+	#opt17{
+		font-size: 20px;
+			}
+	#opt18{
+		font-size: 20px;
+			}	
+	#opt19{
+		font-size: 20px;
+			}	
+	#opt20{
+		font-size: 20px;
+			}
+
+	.quest78{
+		display: flex;
+		flex-direction: row;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+			}
+
+	.quest7{
+		margin-top: 45px;
+			}	
+
+	#main7{
+		font-size: 50px;
+		color: rgb(114, 43, 90);
+			}	
+		
+	#opties7{
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+			}
+	
+
+	#opt21{
+		font-size: 20px;
+			}
+	#opt22{
+		font-size: 20px;
+			}	
+	#opt23{
+		font-size: 20px;
+			}	
+	#opt24{
+		font-size: 20px;
+			}
+
+	.quest8{
+		margin-top: 45px;
+			}	
+
+	#main8{
+		font-size: 50px;
+		color: rgb(114, 43, 90);
+			}	
+		
+	#opties8{
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+			}
+	
+
+	#opt25{
+		font-size: 20px;
+			}
+	#opt26{
+		font-size: 20px;
+			}	
+	#opt27{
+		font-size: 20px;
+			}	
+	#opt28{
+		font-size: 20px;
+			}
+
+	
+
+
+	
+
+	
+
+
+	
