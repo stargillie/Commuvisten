@@ -29,20 +29,20 @@
 
 	#quiz{
 		background-color: rgb(219, 171, 39);
-		border-radius: 10px;
+		border-radius: 7px;
 			}
 
 
 	#commuvistentm{
 		background-color: rgb(219, 171, 39);
 		color: rgb(0, 0, 0);
-		border-radius: 10px;
+		border-radius: 7px;
 			}
 
 
 	#merch{
 		background-color:rgb(219, 171, 39);
-		border-radius: 10px;
+		border-radius: 7px;
 			}
 
 
@@ -92,6 +92,8 @@
 		display: flex;
 		flex-direction: column;
 		gap: 4px;
+		display: grid;
+		grid-template-columns: 1fr 3fr;
 			}
 	
 
@@ -121,6 +123,8 @@
 		display: flex;
 		flex-direction: column;
 		gap: 4px;
+		display: grid;
+		grid-template-columns: 1fr 3fr;
 			}
 	
 
@@ -157,6 +161,8 @@
 		display: flex;
 		flex-direction: column;
 		gap: 4px;
+		display: grid;
+		grid-template-columns: 1fr 3fr;
 			}
 	
 
@@ -186,6 +192,8 @@
 		display: flex;
 		flex-direction: column;
 		gap: 4px;
+		display: grid;
+		grid-template-columns: 1fr 3fr;
 			}
 	
 
@@ -205,7 +213,7 @@
 	.quest56{
 		display: flex;
 		flex-direction: row;
-		display: grid;
+		display: grid;	
 		grid-template-columns: 1fr 1fr;
 			}
 
@@ -222,6 +230,8 @@
 		display: flex;
 		flex-direction: column;
 		gap: 4px;
+		display: grid;
+		grid-template-columns: 1fr 3fr;
 			}
 	
 
@@ -251,19 +261,21 @@
 		display: flex;
 		flex-direction: column;
 		gap: 4px;
+		display: grid;
+		grid-template-columns: 1fr 3fr;
 			}
 	
 
-	#opt17{
+	#opt21{
 		font-size: 20px;
 			}
-	#opt18{
+	#opt22{
 		font-size: 20px;
 			}	
-	#opt19{
+	#opt23{
 		font-size: 20px;
 			}	
-	#opt20{
+	#opt24{
 		font-size: 20px;
 			}
 
@@ -287,19 +299,21 @@
 		display: flex;
 		flex-direction: column;
 		gap: 4px;
+		display: grid;
+		grid-template-columns: 1fr 3fr;
 			}
 	
 
-	#opt21{
+	#opt25{
 		font-size: 20px;
 			}
-	#opt22{
+	#opt26{
 		font-size: 20px;
 			}	
-	#opt23{
+	#opt27{
 		font-size: 20px;
 			}	
-	#opt24{
+	#opt28{
 		font-size: 20px;
 			}
 
@@ -316,19 +330,25 @@
 		display: flex;
 		flex-direction: column;
 		gap: 4px;
+		display: grid;
+		grid-template-columns: 1fr 3fr;
+		gap: 4px;
 			}
 	
 
-	#opt25{
+	#opt29{
 		font-size: 20px;
 			}
-	#opt26{
+
+	#opt30{
 		font-size: 20px;
 			}	
-	#opt27{
+
+	#opt31{
 		font-size: 20px;
 			}	
-	#opt28{
+
+	#opt32{
 		font-size: 20px;
 			}
 
