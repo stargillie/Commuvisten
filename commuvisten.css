@@ -83,7 +83,7 @@
 	#huh{
  		font-family: "Noto Serif JP", serif;
  		font-optical-sizing: auto;
- 		font-weight: <weight>;
+ 		font-weight: 800;
  		font-style: normal;
 		padding: 0px;
 		margin: 0px;
@@ -99,16 +99,21 @@
 
 
 	.scroll{
+		display: flex;
 		
 			}
 
 	#scroll1{
+		font-size: 80px;
 			}
 
 	#scroll2{
+		font-size: 80px;
 			}
 
 	#pright{
+		align-self: self-end;
+
 			}
 
 
