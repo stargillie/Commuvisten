@@ -138,9 +138,48 @@
 	.Doelen{
 		display: flex;
 		flex-direction: column;
+		border-style: solid;
+		background-color: rgb(216, 161, 175);
+			}
+
+	#purpos{
+		margin-top: 10px;
+		margin-left: 30px;
+		font-size: 30px;
+			}
+
+	#wdwdt{
+		margin-left: 30px;
+		font-size: 20px;
 			}
 
 	.Quizzes{
+		display: flex;
+		flex-direction: column;
+		border-style: solid;
+		background-color: rgb(216, 161, 175);
+			}
+
+	#test{
+		font-size: 60px;
+		text-align: center;
+		vertical-align: middle;
+		}
+	
+	#klak{
+		font-size: 20px;
+		text-align: center;
+		vertical-align: middle;
+		}
+	
+	.makers{
+		display: flex;
+		flex-direction: row;
+		border-style: solid;
+		background-color: rgb(61, 4, 5);
+		}
+
+	.Fiene{
 		display: flex;
 		flex-direction: column;
 			}
