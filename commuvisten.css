@@ -100,20 +100,45 @@
 
 	.scroll{
 		display: flex;
-		
+		flex-direction: column;
 			}
 
 	#scroll1{
 		font-size: 80px;
+		margin-left: 30px;
+		margin-top: 60px;
+		margin-bottom: 60px;
+		border-style: solid;
+		margin-right: 30px;
+		text-align: center;
+		vertical-align: middle;
+		line-height: 60px;   
+		height: 70px;
 			}
 
 	#scroll2{
 		font-size: 80px;
+		margin-left: 30px;
+		margin-top: 60px;
+		margin-bottom: 60px;
+		margin-right: 30px;
+		border-style: solid;
+		text-align: center;
+		vertical-align: middle;
+		line-height: 60px;   
+		height: 70px;
 			}
 
 	#pright{
-		align-self: self-end;
+			}
 
+	.tekst-pic{
+		 display: grid;
+		 grid-template-columns: 1fr 1fr;
+			}
+
+	#doel-h6{
+		font-size: 6px;
 			}
 
 
