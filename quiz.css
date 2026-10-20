@@ -92,7 +92,19 @@
 		color: rebeccapurple;
 		margin-left: 100px;
 			}	
-		
+
+	#main2{
+		font-size: 40px;
+		color: rebeccapurple;
+		margin-left: 100px;
+		margin-top: 80px;
+	}
+	
+	#he{
+		margin-top: 15px;
+	}
+
+
 	#opties1{
 		display: flex;
 		flex-direction: column;
@@ -164,7 +176,7 @@
 		grid-template-columns: 1fr 3fr;
 		margin-left:90px;
 		margin-bottom: 70px;
-		margin-top: 50px;
+		margin-top: 80px;
 			}
 
 	
@@ -177,7 +189,7 @@
 		grid-template-columns: 1fr 3fr;
 		margin-left:90px;
 		margin-bottom: 70px;
-		margin-top: 50px;
+		margin-top: 70px;
 			}
 	
 
@@ -189,7 +201,7 @@
 		grid-template-columns: 1fr 3fr;
 		margin-left:90px;
 		margin-bottom: 70px;
-		margin-top: 50px;
+		margin-top: 30px;
 			}
 
 
