@@ -1,6 +1,6 @@
 	body{
 		width: 1366px;
-		background-color: rgb(250, 217, 225);
+		background-color: rgb(217, 240, 248);
 		margin: 0px;	 
        			}	
 
@@ -77,15 +77,20 @@
 		flex-direction: row;
 		display: grid;
 		grid-template-columns: 1fr 1fr;
+		gap: 200px;
 			}
 
 	.quest1{
 		margin-top: 45px;
+		border-style: solid;
+		margin-left: 70px;
+		border-radius: 25%;
 			}	
 
 	#main1{
 		font-size: 50px;
 		color: rgb(114, 43, 90);
+		margin-left: 100px;
 			}	
 		
 	#opties1{
@@ -94,29 +99,23 @@
 		gap: 4px;
 		display: grid;
 		grid-template-columns: 1fr 3fr;
+		margin-left:90px;
+		margin-bottom: 70px;
+		margin-top: 50px;
 			}
 	
 
-	#opt1{
-		font-size: 20px;
-			}
-	#opt2{
-		font-size: 20px;
-			}	
-	#opt3{
-		font-size: 20px;
-			}	
-	#opt4{
-		font-size: 20px;
-			}
-
 	.quest2{
 		margin-top: 45px;
+		border-style: solid;
+		margin-left: 70px;
+		border-radius: 25%;
 			}	
 
 	#main2{
 		font-size: 50px;
 		color: rgb(114, 43, 90);
+		margin-left: 100px;
 			}	
 		
 	#opties2{
@@ -125,36 +124,31 @@
 		gap: 4px;
 		display: grid;
 		grid-template-columns: 1fr 3fr;
+		margin-left:90px;
+		margin-bottom: 70px;
+		margin-top: 50px;
 			}
 	
-
-	#opt5{
-		font-size: 20px;
-			}
-	#opt6{
-		font-size: 20px;
-			}	
-	#opt7{
-		font-size: 20px;
-			}	
-	#opt8{
-		font-size: 20px;
-			}
 
 	.quest34{
 		display: flex;
 		flex-direction: row;
 		display: grid;
 		grid-template-columns: 1fr 1fr;
+		gap: 200px;
 			}
 
 	.quest3{
 		margin-top: 45px;
+		border-style: solid;
+		margin-left: 70px;
+		border-radius: 25%;
 			}	
 
 	#main3{
 		font-size: 50px;
 		color: rgb(114, 43, 90);
+		margin-left: 100px;
 			}	
 		
 	#opties3{
@@ -163,29 +157,23 @@
 		gap: 4px;
 		display: grid;
 		grid-template-columns: 1fr 3fr;
+		margin-left:90px;
+		margin-bottom: 70px;
+		margin-top: 50px;
 			}
-	
 
-	#opt9{
-		font-size: 20px;
-			}
-	#opt10{
-		font-size: 20px;
-			}	
-	#opt11{
-		font-size: 20px;
-			}	
-	#opt12{
-		font-size: 20px;
-			}
 
 	.quest4{
 		margin-top: 45px;
+		border-style: solid;
+		margin-left: 70px;
+		border-radius: 25%;
 			}	
 
 	#main4{
 		font-size: 50px;
 		color: rgb(114, 43, 90);
+		margin-left: 100px;
 			}	
 		
 	#opties4{
@@ -194,36 +182,30 @@
 		gap: 4px;
 		display: grid;
 		grid-template-columns: 1fr 3fr;
-			}
-	
-
-	#opt13{
-		font-size: 20px;
-			}
-	#opt14{
-		font-size: 20px;
-			}	
-	#opt15{
-		font-size: 20px;
-			}	
-	#opt16{
-		font-size: 20px;
+		margin-left:90px;
+		margin-bottom: 70px;
+		margin-top: 50px;
 			}
 
 	.quest56{
 		display: flex;
 		flex-direction: row;
-		display: grid;	
+		display: grid;
 		grid-template-columns: 1fr 1fr;
+		gap: 200px;
 			}
 
 	.quest5{
 		margin-top: 45px;
+		border-style: solid;
+		margin-left: 70px;
+		border-radius: 25%;
 			}	
 
 	#main5{
 		font-size: 50px;
 		color: rgb(114, 43, 90);
+		margin-left: 100px;
 			}	
 		
 	#opties5{
@@ -232,29 +214,23 @@
 		gap: 4px;
 		display: grid;
 		grid-template-columns: 1fr 3fr;
+		margin-left:90px;
+		margin-bottom: 70px;
+		margin-top: 50px;
 			}
 	
 
-	#opt17{
-		font-size: 20px;
-			}
-	#opt18{
-		font-size: 20px;
-			}	
-	#opt19{
-		font-size: 20px;
-			}	
-	#opt20{
-		font-size: 20px;
-			}
-
 	.quest6{
 		margin-top: 45px;
+		border-style: solid;
+		margin-left: 70px;
+		border-radius: 25%;
 			}	
 
 	#main6{
 		font-size: 50px;
 		color: rgb(114, 43, 90);
+		margin-left: 100px;
 			}	
 		
 	#opties6{
@@ -263,36 +239,31 @@
 		gap: 4px;
 		display: grid;
 		grid-template-columns: 1fr 3fr;
+		margin-left:90px;
+		margin-bottom: 70px;
+		margin-top: 50px;
 			}
 	
-
-	#opt21{
-		font-size: 20px;
-			}
-	#opt22{
-		font-size: 20px;
-			}	
-	#opt23{
-		font-size: 20px;
-			}	
-	#opt24{
-		font-size: 20px;
-			}
 
 	.quest78{
 		display: flex;
 		flex-direction: row;
 		display: grid;
 		grid-template-columns: 1fr 1fr;
+		gap: 200px;
 			}
 
 	.quest7{
 		margin-top: 45px;
+		border-style: solid;
+		margin-left: 70px;
+		border-radius: 25%;
 			}	
 
 	#main7{
 		font-size: 50px;
 		color: rgb(114, 43, 90);
+		margin-left: 100px;
 			}	
 		
 	#opties7{
@@ -301,29 +272,23 @@
 		gap: 4px;
 		display: grid;
 		grid-template-columns: 1fr 3fr;
+		margin-left:90px;
+		margin-bottom: 70px;
+		margin-top: 50px;
 			}
 	
 
-	#opt25{
-		font-size: 20px;
-			}
-	#opt26{
-		font-size: 20px;
-			}	
-	#opt27{
-		font-size: 20px;
-			}	
-	#opt28{
-		font-size: 20px;
-			}
-
 	.quest8{
 		margin-top: 45px;
+		border-style: solid;
+		margin-left: 70px;
+		border-radius: 25%;
 			}	
 
 	#main8{
 		font-size: 50px;
 		color: rgb(114, 43, 90);
+		margin-left: 100px;
 			}	
 		
 	#opties8{
@@ -332,32 +297,75 @@
 		gap: 4px;
 		display: grid;
 		grid-template-columns: 1fr 3fr;
-		gap: 4px;
-			}
-	
-
-	#opt29{
-		font-size: 20px;
+		margin-left:90px;
+		margin-bottom: 70px;
+		margin-top: 50px;
 			}
 
-	#opt30{
-		font-size: 20px;
-			}	
 
-	#opt31{
-		font-size: 20px;
-			}	
-
-	#opt32{
-		font-size: 20px;
+	:root{
+		--form-control-color: rebeccapurple;
 			}
 
+	*,
+	*:before,
+	*:after {
+  		box-sizing: border-box;
+			}
+		
+	.form-control {
+ 		 font-family: system-ui, sans-serif;
+ 		 font-size: 20px;
+ 		 font-weight: bold;
+ 		 line-height: 1.1;
+		 display: grid;
+  		 grid-template-columns: 1em auto;
+  		 gap: 0.5em;
+			}
 	
-
-
+	input[type="radio"] {
+ 		 /* Add if not using autoprefixer */
+		  -webkit-appearance: none;
+ 		 appearance: none;
+ 		 /* Not removed via appearance */
+		  margin: 0;
+		   font: inherit;
+ 		 color: currentColor;
+ 		 width: 1.15em;
+ 		 height: 1.15em;
+ 		 border: 0.15em solid currentColor;
+  		border-radius: 50%;
+		transform: translateY(-0.075em);
+		display: grid;
+  		place-content: center;
+		}
 	
+	input[type="radio"]::before {
+ 	 content: "";
+ 	 width: 0.65em;
+ 	 height: 0.65em;
+ 	 border-radius: 50%;
+ 	 transform: scale(0);
+ 	 transition: 120ms transform ease-in-out;
+ 	 box-shadow: inset 1em 1em var(--form-control-color);
+	 /* Windows High Contrast Mode */
+  	background-color: CanvasText;
+		}
 
-	
+	input[type="radio"]:checked::before {
+  	transform: scale(1);
+		}
 
 
-	
+	.form-control + .form-control {
+  	margin-top: 1em;
+		}
+
+	input[type="radio"]:focus {
+ 	 outline: max(2px, 0.15em) solid currentColor;
+ 	 outline-offset: max(2px, 0.15em);
+		}
+
+	.form-control:focus-within {
+  	color: var(--form-control-color);
+		}
