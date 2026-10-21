@@ -24,7 +24,7 @@ function calculateScore() {
   } else if (totalScore <= 48) { // Hier stond eerst 'totalscore' met een kleine letter 's'
     outcome = `Score: ${totalScore} - Je zou toegelaten zijn... net!`;
   } else {
-    outcome = `Score: ${totalScore} - Je hebt het zeker in je om een communist te zijn!`;
+    outcome = `Score: ${totalScore} - Je hebt het zeker in je om een commuvist te zijn!`;
   }
 
   // Toon het resultaat op het scherm
