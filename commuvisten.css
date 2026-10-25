@@ -139,8 +139,13 @@
 		display: flex;
 		flex-direction: column;
 		border-style: solid;
+		border-color: black;
 		background-color: rgb(216, 161, 175);
 			}
+		
+	#doel{
+		color: black;
+	}
 
 	#purpos{
 		margin-top: 10px;
@@ -151,6 +156,7 @@
 	#wdwdt{
 		margin-left: 30px;
 		font-size: 20px;
+		color: black;
 			}
 
 	.Quizzes{
@@ -198,10 +204,18 @@
 		font-size: 30px;
 		color: rgb(219, 171, 39);
 			}
+
+	#fienebio{
+		color: rgb(219, 171, 39);
+		margin-top: -50px;
+		margin-left: 7px;
+	}
 	
 	#fishtadc{
 		width: 200px;
 		height: 200px;
+		margin-top: 15px;
+		margin-bottom: 15px;
 			}
 
 	.Nomiyainfo{
@@ -218,16 +232,25 @@
 	#nomiya{
 		font-size: 30px;
 		color: rgb(219, 171, 39);
+		margin-left: 7px;
 			}
+
+	#nomiyabio{
+		color: rgb(219, 171, 39);
+		margin-top: -40px;
+		margin-left: 7px;
+	}
 
 	#fish2{
 		width: 200px;
 		height: 200px;
+		margin-top: 15px;
+		margin-bottom: 15ox;
 			}
 
 	.makers .header {
   		position:absolute;
-		margin-top:-25px;
+		margin-top:-15px;
  		margin-left:10px;
  		color:rgb(61, 4, 5);
  		background:rgb(219, 171, 39);

@@ -1,5 +1,5 @@
 	body{
-		width: 1366px;
+		width: 1351px;
 		background-color: rgb(250, 217, 225);
 		margin: 0px;	 
        			}	
@@ -13,7 +13,7 @@
 	.upperborder{
 		display: flex;
 		background-color: rgb(77, 4, 5);
-		width: 1366px;
+		width: 1351px;
 		margin: 0px;
 		padding: 0px;
 			}
@@ -71,10 +71,14 @@
 		color: rgb(240, 63, 172);
 			}
 
+
 	.merchjoepie{
 		margin-left: 30px;
 			}
+
+
 	.vismerch{
+		height: 268px;
 		background-color: rgba(253, 243, 246, 0.868);
 		justify-content: space-around;
 		align-items: center;
@@ -85,10 +89,30 @@
 		border-radius: 10px;
 		border: 2px solid rgb(0,0,0);
 			}
-	
 
+	#warning{
+		font-size: 9px;
+	}
+
+	#rot{
+		width: 320px;
+		height: 255px;
+		animation-name: myfirst;
+		animation-duration: 5s;
+		animation-delay: 1s;
+		margin-top: 6px;
+		margin-bottom: 6px;
+		}
+	
+	@keyframes myfirst{
+		1%{width: 150px; height: 120px; rotate: 50deg;}
+		25%{ width: 190px; height: 120px; rotate: 40deg;}
+		50%{width: 210px; height: 190px; rotate: 30deg;}
+		75%{width: 2000px; height: 230px; rotate: 20deg;}
+	}
 
 	.vismerch2{
+		height: 268px;
 		background-color: rgba(253, 243, 246, 0.868);
 		justify-content: space-evenly;
 		align-items: center;
@@ -98,4 +122,23 @@
 		margin-right: 250px;
 		border-radius: 10px;
 		border: 2px solid rgb(0,0,0);
+			}
+
+	#nope{
+		font-size: 9px;
+		animation-name: whyy;
+		animation-duration: 700ms;
+		animation-iteration-count: infinite;
+		margin-left: 30px;
+			}
+
+	@keyframes whyy{
+		10%{ font-size: 8px; color:brown}
+		50%{ color:blue}
+		75%{color:rgb(75, 132, 60)}
+		100%{color:rebeccapurple}
 	}
+
+	
+	
+
