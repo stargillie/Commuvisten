@@ -81,7 +81,7 @@
 			}
 
 	.quest1{
-		margin-top: 45px;
+		margin-top: 15px;
 		border-style: solid;
 		border-radius: 25%;
 		background-color: aquamarine;
@@ -288,4 +288,12 @@
 	#result{
 		margin-left: 20px;
 		color:  rgb(68, 52, 9);
+	}
+
+	#en{
+		margin-left: 380px;
+	}
+
+	#yes{
+		margin-left: 610px;
 	}
